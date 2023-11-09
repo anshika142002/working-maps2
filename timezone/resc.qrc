@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>satellite.jpg</file>
+        <file>satellite2.jpg</file>
+        <file>index.js</file>
+        <file>mapbuild1.html</file>
+        <file>leafletjs/leaflet.js</file>
+        <file>leafletjs/leaflet.css</file>
+        <file>login.qml</file>
+    </qresource>
+</RCC>
